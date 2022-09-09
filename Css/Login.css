@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&family=Poppins&display=swap');
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.image{
+background-color:#d97856;
+}
+
+.btn-info{
+    background-color :#d89853;
+    padding: 10px 20px;
+    border-radius: 0px;
+    border: 0px;
+    text-transform: uppercase;
+    font-size: 16px;
+    outline: none;
+}
+.btn-info:hover{
+    background-color:#000;
+    color: aliceblue;
+}
